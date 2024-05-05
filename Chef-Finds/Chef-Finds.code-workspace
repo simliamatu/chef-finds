@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "Chef-Finds logo/Logo Files/For Web/Favicons"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "RecipeRadar"
+	}
+}
